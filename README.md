@@ -3,6 +3,7 @@ CS2(Counter Strike 2) External ESP+Aimbot Cheat
 
 **DONT** use in *REAL GAME*
 **USE** **-insecure** *Before Start The Game*
+**No bypass anti-cheat is in this, this is just for educational purpose.**
 
 Update Offsets in Program.cs https://github.com/a2x/cs2-dumper/tree/main/output
 

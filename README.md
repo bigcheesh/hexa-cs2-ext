@@ -1,8 +1,10 @@
-# CS2-Esp-Aimbot-External EDUCATIONAL PURPOSES ONLY!
+# Hexa CS2 EDUCATIONAL PURPOSES ONLY!
 CS2(Counter Strike 2) External ESP+Aimbot Cheat
 
 **DONT** use in *REAL GAME*
 **USE** **-insecure** *Before Start The Game*
+
+Offsets in Program.cs https://github.com/a2x/cs2-dumper/tree/main/output
 
 **DO NOT** *Resell this cheat*
 -----------------------------------------

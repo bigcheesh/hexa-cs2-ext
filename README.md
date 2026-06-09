@@ -8,8 +8,7 @@ CS2(Counter Strike 2) External ESP+Aimbot Cheat
 Update Offsets in Program.cs https://github.com/a2x/cs2-dumper/tree/main/output
 
 **DO NOT** *Resell this cheat*
------------------------------------------
- - *has*                            
+-----------------------------------------                        
  - Box Esp                             
  - Fill Esp                            
  - Bone Esp                            

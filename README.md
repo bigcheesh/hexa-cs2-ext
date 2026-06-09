@@ -7,6 +7,8 @@ CS2(Counter Strike 2) External ESP+Aimbot Cheat
 
 Update Offsets in Program.cs https://github.com/a2x/cs2-dumper/tree/main/output
 
+Open cs2simpleESPBones.sln in Microsoft Visual Studio 2022+
+
 **DO NOT** *Resell this cheat*
 -----------------------------------------                        
  - Box Esp                             
